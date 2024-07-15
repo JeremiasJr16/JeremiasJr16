@@ -1,6 +1,6 @@
 
 ### Olá! Eu sou o Jeremias!<br/>
-Desenvolvedor Android | Globoplay | Desenvolvimento de aplicativos móveis | Desenvolvimento de aplicativos para TV |
+Desenvolvedor Android | Globoplay | Desenvolvimento de aplicativos móveis e AndroidTV
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremias-dos-santos-andrade-46840622b/)  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeremiasJr89) 
