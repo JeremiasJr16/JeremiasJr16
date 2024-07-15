@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**JeremiasJr16/JeremiasJr16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Jeremias!<br/>
+Desenvolvedor Android | Globoplay | Desenvolvimento de aplicativos móveis | Desenvolvimento de aplicativos para TV |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremias-dos-santos-andrade-46840622b/)  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeremiasJr89) 
+
+ ![JeremiasJr16](https://github-readme-stats.vercel.app/api?username=JeremiasJr16&show_icons=true&theme=tokyonight)
+ ![JeremiasJr89](https://github-readme-stats.vercel.app/api?username=JeremiasJr89&show_icons=true&theme=tokyonight)
+
+ ![JeremiasJr](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremiasJr16&hide_progress=true)
+
+## Tecnologias do meu dia a dia.
+ <div style="display: inline-block">
+ <img alt="Android" src="https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=Android&logoColor=white" />
+     <img alt="AndroidStudio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+     <img alt="Bitrise" src="https://img.shields.io/badge/Bitrise-683D87.svg?style=for-the-badge&logo=Bitrise&logoColor=white" />
+ <img alt="Apollo"src="https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white" />
+   <img alt="Github"src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+   <img alt="Firebase"src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
+
+</div>
+
